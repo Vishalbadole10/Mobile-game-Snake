@@ -22,8 +22,8 @@
 #scoreBox{
     position: absolute;
     top: 9px;
-    right: 200px;
-    font-size: 39px;
+    right: 500px;
+    font-size: 89px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
