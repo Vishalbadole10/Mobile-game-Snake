@@ -22,8 +22,8 @@
 #scoreBox{
     position: absolute;
     top: 9px;
-    right: 500px;
-    font-size: 89px;
+    right: 200px;
+    font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
@@ -121,7 +121,7 @@ button {
     #scoreBox{
     position: absolute;
     top: 41px;
-    right: 227px;
+    right: 327px;
     font-size: 27px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
