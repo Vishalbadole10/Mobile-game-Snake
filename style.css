@@ -72,7 +72,7 @@
     justify-content: center;
     align-items: center;
     width: 195px;
-    height: 164px;
+    height: 182px;
     border-radius: 50%;
     padding: 10px;
     margin-top: 30%;
@@ -105,8 +105,8 @@ button {
         padding:0;
     }
   .keyboard{
-          margin-top: 115%;
-    margin-right: -40%;
+          margin-top: 121%;
+    margin-right: -68%;
       
     }
     #board{
@@ -120,17 +120,17 @@ button {
     }
     #scoreBox{
     position: absolute;
-    top: 41px;
-    right: 227px;
-    font-size: 27px;
+    top: 15px;
+    right: 158px;
+    font-size: 34px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
     #hiscoreBox{
     position: absolute;
-  top: 61px;
-    right: 227px;
-    font-size: 27px;
+  top: 75px;
+    right: 137px;
+    font-size: 36px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
